@@ -1,0 +1,45 @@
+#distribution_title {
+  text-align: center;
+}
+
+#distribution_title h2{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+
+.square {
+  border: 2px solid;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  margin: 200px 30px;
+}
+
+.distribution_icon {
+  height: 100px;
+  width: 100px;
+  margin-top: 30px;
+}
+
+.distribution_icon2 {
+  height: 100px;
+  width: 100px;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.square h5 {
+ margin-top: 20px; 
+}
+
+.square p {
+ margin: 20px 8px;
+}
+
+
+.clearBoth {
+ clear: both; 
+}
+
